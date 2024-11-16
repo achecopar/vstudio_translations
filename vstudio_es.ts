@@ -6,27 +6,27 @@
     <message>
         <location filename="../../sources/VStudio/LT/Source/Interfaces/DB/Schema/I_LCursorBaseScript.cpp" line="483"/>
         <source>[Cursor::updateRecord] The cursor was deleted.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">[Cursor::updateRecord] El cursor fue borrado.</translation>
     </message>
     <message>
         <location filename="../../sources/VStudio/LT/Source/Interfaces/DB/Schema/I_LCursorScript.cpp" line="509"/>
         <source>[Cursor::applyChanges] The cursor was deleted.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">[Cursor::applyChanges] El cursor fue borrado.</translation>
     </message>
     <message>
         <location filename="../../sources/VStudio/LT/Source/Interfaces/DB/Schema/I_LDatabaseObjectScript.cpp" line="295"/>
         <source>[DatabaseObject::generateQueryChangeProperty] Property &apos;{}&apos; not found.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">[DatabaseObject::generateQueryChangeProperty] Propiedad &apos;{}&apos; no encontrada.</translation>
     </message>
     <message>
         <location filename="../../sources/VStudio/LT/Source/Interfaces/DB/Schema/I_LTableScript.cpp" line="391"/>
         <source>[Table::tableCursor] Unable to create cursor over the table: {}.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">[Table::tableCursor] No se pudo crear el cursor en la tabla: {}.</translation>
     </message>
     <message>
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2092"/>
         <source>Records</source>
-        <translation type="unfinished"></translation>
+        <translation>Registros</translation>
     </message>
     <message>
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2097"/>
@@ -34,19 +34,19 @@
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2464"/>
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2721"/>
         <source>Add Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Agregar filtro</translation>
     </message>
     <message>
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2106"/>
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2492"/>
         <source>Add Record</source>
-        <translation type="unfinished"></translation>
+        <translation>Agregar registro</translation>
     </message>
     <message>
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2106"/>
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2492"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Agregar</translation>
     </message>
     <message>
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2112"/>
@@ -54,7 +54,7 @@
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2478"/>
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2734"/>
         <source>Add Sort</source>
-        <translation type="unfinished"></translation>
+        <translation>Agregar orden</translation>
     </message>
     <message>
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2112"/>
@@ -65,7 +65,7 @@
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2734"/>
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2755"/>
         <source>Sort</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordenar</translation>
     </message>
     <message>
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2119"/>
@@ -73,7 +73,7 @@
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2505"/>
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2747"/>
         <source>Apply Filters</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicar filtros</translation>
     </message>
     <message>
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2119"/>
@@ -81,7 +81,7 @@
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2505"/>
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2747"/>
         <source>Find</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscar</translation>
     </message>
     <message>
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2124"/>
@@ -89,41 +89,41 @@
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2518"/>
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2755"/>
         <source>Apply Sorting</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicar ordenamiento</translation>
     </message>
     <message>
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2131"/>
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2531"/>
         <source>Delete All Records</source>
-        <translation type="unfinished"></translation>
+        <translation>Borrar todos los registros</translation>
     </message>
     <message>
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2131"/>
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2531"/>
         <source>Delete All</source>
-        <translation type="unfinished"></translation>
+        <translation>Borrar todos</translation>
     </message>
     <message>
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2136"/>
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2541"/>
         <source>Delete Record</source>
-        <translation type="unfinished"></translation>
+        <translation>Borrar registro</translation>
     </message>
     <message>
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2136"/>
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2541"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Borrar</translation>
     </message>
     <message>
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2142"/>
         <source>Discard Changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Descartar cambios</translation>
     </message>
     <message>
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2142"/>
         <source>Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>Reinciar</translation>
     </message>
     <message>
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2147"/>
@@ -131,7 +131,7 @@
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2551"/>
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2763"/>
         <source>First Record</source>
-        <translation type="unfinished"></translation>
+        <translation>Primer registro</translation>
     </message>
     <message>
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2147"/>
@@ -139,7 +139,7 @@
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2551"/>
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2763"/>
         <source>First</source>
-        <translation type="unfinished"></translation>
+        <translation>Primero</translation>
     </message>
     <message>
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2155"/>
@@ -147,7 +147,7 @@
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2577"/>
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2777"/>
         <source>Go To Record ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ir al registro...</translation>
     </message>
     <message>
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2160"/>
@@ -155,7 +155,7 @@
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2587"/>
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2785"/>
         <source>Last Record</source>
-        <translation type="unfinished"></translation>
+        <translation>Último registro</translation>
     </message>
     <message>
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2160"/>
@@ -163,7 +163,7 @@
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2587"/>
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2785"/>
         <source>Last</source>
-        <translation type="unfinished"></translation>
+        <translation>Último</translation>
     </message>
     <message>
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2168"/>
@@ -171,7 +171,7 @@
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2603"/>
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2799"/>
         <source>Next Record</source>
-        <translation type="unfinished"></translation>
+        <translation>Registro siguiente</translation>
     </message>
     <message>
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2168"/>
@@ -179,7 +179,7 @@
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2603"/>
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2799"/>
         <source>Next &gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Siguiente &gt;</translation>
     </message>
     <message>
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2176"/>
@@ -187,7 +187,7 @@
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2619"/>
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2813"/>
         <source>Previous Record</source>
-        <translation type="unfinished"></translation>
+        <translation>Registro anterior</translation>
     </message>
     <message>
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2176"/>
@@ -195,7 +195,7 @@
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2619"/>
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2813"/>
         <source>Prev &lt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Anterior &lt;</translation>
     </message>
     <message>
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2184"/>
@@ -203,7 +203,7 @@
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2635"/>
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2827"/>
         <source>Reload Records</source>
-        <translation type="unfinished"></translation>
+        <translation>Recargar registros</translation>
     </message>
     <message>
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2184"/>
@@ -211,7 +211,7 @@
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2635"/>
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2827"/>
         <source>Reload</source>
-        <translation type="unfinished"></translation>
+        <translation>Recargar</translation>
     </message>
     <message>
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2189"/>
@@ -219,7 +219,7 @@
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2676"/>
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2839"/>
         <source>Remove All Filters</source>
-        <translation type="unfinished"></translation>
+        <translation>Quitar todos los filtros</translation>
     </message>
     <message>
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2196"/>
@@ -227,7 +227,7 @@
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2648"/>
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2852"/>
         <source>Remove Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Quitar filtro</translation>
     </message>
     <message>
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2203"/>
@@ -235,7 +235,7 @@
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2662"/>
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2865"/>
         <source>Remove Sort</source>
-        <translation type="unfinished"></translation>
+        <translation>Quitar ordenamiento</translation>
     </message>
     <message>
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2210"/>
@@ -243,7 +243,7 @@
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2690"/>
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2878"/>
         <source>Reset Sorting</source>
-        <translation type="unfinished"></translation>
+        <translation>Reiniciar ordenamiento</translation>
     </message>
     <message>
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2217"/>
@@ -251,7 +251,7 @@
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2704"/>
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2891"/>
         <source>Update Record</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizar registro</translation>
     </message>
     <message>
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2217"/>
@@ -259,118 +259,118 @@
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2704"/>
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2891"/>
         <source>Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizar</translation>
     </message>
     <message>
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2227"/>
         <source>Field</source>
-        <translation type="unfinished"></translation>
+        <translation>Campo</translation>
     </message>
     <message>
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2230"/>
         <source>Set Null</source>
-        <translation type="unfinished"></translation>
+        <translation>Asignar valor nulo</translation>
     </message>
     <message>
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2248"/>
         <source>Query</source>
-        <translation type="unfinished"></translation>
+        <translation>Cláusula de consulta</translation>
     </message>
     <message>
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2461"/>
         <location filename="../../sources/ling/db/src/classes/valentina/schema/ValentinaTable.cpp" line="65"/>
         <source>Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabla</translation>
     </message>
     <message>
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2567"/>
         <location filename="../../sources/VStudio/Plugins/FormEditor/vsFormEditorPlugin.cpp" line="790"/>
         <source>Flush</source>
-        <translation type="unfinished"></translation>
+        <translation>Vaciar</translation>
     </message>
     <message>
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2676"/>
         <source>Remove Filters</source>
-        <translation type="unfinished"></translation>
+        <translation>Quitar filtros</translation>
     </message>
     <message>
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsForm.cpp" line="2718"/>
         <source>View</source>
-        <translation type="unfinished"></translation>
+        <translation>Vista</translation>
     </message>
     <message>
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsWidgetTable.cpp" line="794"/>
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsWidgetTable.cpp" line="798"/>
         <location filename="../../sources/VStudio/Plugins/FormEditor/FormEditor/Widgets/vsWidgetTable.cpp" line="803"/>
         <source>[WidgetTable::CreateCursor] Unable to create cursor for the widget: {}.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">[WidgetTable::CreateCursor] No se pudo crear el cursor para el widget: {}.</translation>
     </message>
     <message>
         <location filename="../../sources/VStudio/Plugins/FormEditor/Project/Items/vsProjectItem.cpp" line="425"/>
         <source>Unable to copy an item from the closed project.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo copiar un artículo del proyecto cerrado.</translation>
     </message>
     <message>
         <location filename="../../sources/VStudio/Plugins/FormEditor/vsFormEditorPlugin.cpp" line="772"/>
         <location filename="../../sources/VStudio/Plugins/FormEditor/vsFormEditorPlugin.cpp" line="1035"/>
         <location filename="../../sources/ling/db/src/classes/valentina/schema/ValentinaDatabase.cpp" line="88"/>
         <source>Database</source>
-        <translation type="unfinished"></translation>
+        <translation>Base de datos</translation>
     </message>
     <message>
         <location filename="../../sources/VStudio/Plugins/FormEditor/vsFormEditorPlugin.cpp" line="775"/>
         <source>Create</source>
-        <translation type="unfinished"></translation>
+        <translation>Crear</translation>
     </message>
     <message>
         <location filename="../../sources/VStudio/Plugins/FormEditor/vsFormEditorPlugin.cpp" line="777"/>
         <source>Execute SQL...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ejecutar SQL...</translation>
     </message>
     <message>
         <location filename="../../sources/VStudio/Plugins/FormEditor/vsFormEditorPlugin.cpp" line="791"/>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir</translation>
     </message>
     <message>
         <location filename="../../sources/VStudio/Plugins/FormEditor/vsFormEditorPlugin.cpp" line="797"/>
         <source>Project</source>
-        <translation type="unfinished"></translation>
+        <translation>Proyecto</translation>
     </message>
     <message>
         <location filename="../../sources/VStudio/Plugins/FormEditor/vsFormEditorPlugin.cpp" line="800"/>
         <source>Import Script...</source>
-        <translation type="unfinished"></translation>
+        <translation>Importar script...</translation>
     </message>
     <message>
         <location filename="../../sources/VStudio/Plugins/FormEditor/vsFormEditorPlugin.cpp" line="835"/>
         <source>Show Dialog...</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar diálogo...</translation>
     </message>
     <message>
         <location filename="../../sources/VStudio/Plugins/FormEditor/vsFormEditorPlugin.cpp" line="870"/>
         <source>Show Dialog As Modal...</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar diálogo como modal...</translation>
     </message>
     <message>
         <location filename="../../sources/VStudio/Plugins/FormEditor/vsFormEditorPlugin.cpp" line="909"/>
         <source>Report</source>
-        <translation type="unfinished"></translation>
+        <translation>Reportar</translation>
     </message>
     <message>
         <location filename="../../sources/VStudio/Plugins/FormEditor/vsFormEditorPlugin.cpp" line="916"/>
         <source>Preview Page...</source>
-        <translation type="unfinished"></translation>
+        <translation>Vista preliminar...</translation>
     </message>
     <message>
         <location filename="../../sources/VStudio/Plugins/FormEditor/vsFormEditorPlugin.cpp" line="916"/>
         <source>Preview Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Vista preliminar</translation>
     </message>
     <message>
         <location filename="../../sources/VStudio/Plugins/FormEditor/vsFormEditorPlugin.cpp" line="923"/>
         <source>Print To Buffer...</source>
-        <translation type="unfinished"></translation>
+        <translation>Imprimir en buffer...</translation>
     </message>
     <message>
         <location filename="../../sources/VStudio/Plugins/FormEditor/vsFormEditorPlugin.cpp" line="923"/>
@@ -379,113 +379,113 @@
         <location filename="../../sources/VStudio/Plugins/FormEditor/vsFormEditorPlugin.cpp" line="945"/>
         <location filename="../../sources/VStudio/Plugins/FormEditor/vsFormEditorPlugin.cpp" line="952"/>
         <source>Print</source>
-        <translation type="unfinished"></translation>
+        <translation>Imprimir</translation>
     </message>
     <message>
         <location filename="../../sources/VStudio/Plugins/FormEditor/vsFormEditorPlugin.cpp" line="930"/>
         <source>Print To Disk...</source>
-        <translation type="unfinished"></translation>
+        <translation>Imprimir en disco...</translation>
     </message>
     <message>
         <location filename="../../sources/VStudio/Plugins/FormEditor/vsFormEditorPlugin.cpp" line="938"/>
         <source>Print To Local Printer...</source>
-        <translation type="unfinished"></translation>
+        <translation>Imprimir en impresora local...</translation>
     </message>
     <message>
         <location filename="../../sources/VStudio/Plugins/FormEditor/vsFormEditorPlugin.cpp" line="945"/>
         <source>Print To Server Printer...</source>
-        <translation type="unfinished"></translation>
+        <translation>Imprimir en impresora del servidor...</translation>
     </message>
     <message>
         <location filename="../../sources/VStudio/Plugins/FormEditor/vsFormEditorPlugin.cpp" line="952"/>
         <source>Show Print Dialog...</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar diálogo de impresión...</translation>
     </message>
     <message>
         <location filename="../../sources/VStudio/Plugins/FormEditor/vsFormEditorPlugin.cpp" line="959"/>
         <source>Set Parameter Value...</source>
-        <translation type="unfinished"></translation>
+        <translation>Asignar valor de parámetro...</translation>
     </message>
     <message>
         <location filename="../../sources/VStudio/Plugins/FormEditor/vsFormEditorPlugin.cpp" line="959"/>
         <source>Set Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Asignar parámetro</translation>
     </message>
     <message>
         <location filename="../../sources/VStudio/Plugins/FormEditor/vsFormEditorPlugin.cpp" line="1036"/>
         <source>ComboBox - Field</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">CuadroCombinado - Campo</translation>
     </message>
     <message>
         <location filename="../../sources/VStudio/Plugins/FormEditor/vsFormEditorPlugin.cpp" line="1037"/>
         <source>SpinBox - Field</source>
-        <translation type="unfinished"></translation>
+        <translation>CuadroDeNúmero - Campo</translation>
     </message>
     <message>
         <location filename="../../sources/VStudio/Plugins/FormEditor/vsFormEditorPlugin.cpp" line="1038"/>
         <source>CheckBox - Field</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">CasillaDeVerificación - Campo</translation>
     </message>
     <message>
         <location filename="../../sources/VStudio/Plugins/FormEditor/vsFormEditorPlugin.cpp" line="1039"/>
         <source>LineEdit - Field</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">EdiciónDeLínea - Campo</translation>
     </message>
     <message>
         <location filename="../../sources/VStudio/Plugins/FormEditor/vsFormEditorPlugin.cpp" line="1040"/>
         <source>TextEdit - Field</source>
-        <translation type="unfinished"></translation>
+        <translation>EdiciónDeTexto - Campo</translation>
     </message>
     <message>
         <location filename="../../sources/VStudio/Plugins/FormEditor/vsFormEditorPlugin.cpp" line="1041"/>
         <source>Image - Field</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Imagen - Campo</translation>
     </message>
     <message>
         <location filename="../../sources/VStudio/Plugins/FormEditor/vsFormEditorPlugin.cpp" line="1042"/>
         <source>TableView</source>
-        <translation type="unfinished"></translation>
+        <translation>VistaDeTabla</translation>
     </message>
     <message>
         <location filename="../../sources/VStudio/Plugins/FormEditor/vsFormEditorPlugin.cpp" line="1043"/>
         <source>SubForm</source>
-        <translation type="unfinished"></translation>
+        <translation>Subformulario</translation>
     </message>
     <message>
         <location filename="../../sources/ling/db/src/classes/common/SchemaList.cpp" line="106"/>
         <source>Schema Items</source>
-        <translation type="unfinished"></translation>
+        <translation>Artículos de esquema</translation>
     </message>
     <message>
         <location filename="../../sources/ling/db/src/classes/common/SchemaList.cpp" line="106"/>
         <source>Schema Item</source>
-        <translation type="unfinished"></translation>
+        <translation>Artículo de esquema</translation>
     </message>
     <message>
         <location filename="../../sources/ling/db/src/classes/valentina/schema/ValentinaDatabase.cpp" line="88"/>
         <source>Databases</source>
-        <translation type="unfinished"></translation>
+        <translation>Bases de datos</translation>
     </message>
     <message>
         <location filename="../../sources/ling/db/src/classes/valentina/schema/ValentinaListTables.cpp" line="50"/>
         <location filename="../../sources/ling/db/src/classes/valentina/schema/ValentinaTable.cpp" line="65"/>
         <source>Tables</source>
-        <translation type="unfinished"></translation>
+        <translation>Tablas</translation>
     </message>
     <message>
         <location filename="../../sources/ling/forms/src/classes/common/FormAction.cpp" line="105"/>
         <source>Form Actions</source>
-        <translation type="unfinished"></translation>
+        <translation>Acciones de formulario</translation>
     </message>
     <message>
         <location filename="../../sources/ling/forms/src/classes/common/FormAction.cpp" line="105"/>
         <source>Form Action</source>
-        <translation type="unfinished"></translation>
+        <translation>Acción de formulario</translation>
     </message>
     <message>
         <location filename="../../sources/ling/forms/src/classes/common/FormListScript.cpp" line="118"/>
         <source>script</source>
-        <translation type="unfinished"></translation>
+        <translation>script</translation>
     </message>
     <message numerus="yes">
         <location filename="../../sources/ling/forms/src/classes/common/FormListStrings.cpp" line="109"/>
@@ -493,285 +493,285 @@
         <location filename="../../sources/ling/ui/src/functions/format/display_ui.cpp" line="71"/>
         <source>{} items</source>
         <translation type="unfinished">
-            <numerusform></numerusform>
+            <numerusform>{} artículos</numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <location filename="../../sources/ling/forms/src/classes/widgets/Dialog.cpp" line="1459"/>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo</translation>
     </message>
     <message>
         <location filename="../../sources/ling/forms/src/classes/widgets/Dialog.cpp" line="1462"/>
         <source>Read Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Leer datos</translation>
     </message>
     <message>
         <location filename="../../sources/ling/forms/src/classes/widgets/Dialog.cpp" line="1462"/>
         <location filename="../../sources/ling/forms/src/classes/widgets/Dialog.cpp" line="1469"/>
         <source>Load</source>
-        <translation type="unfinished"></translation>
+        <translation>Cargar</translation>
     </message>
     <message>
         <location filename="../../sources/ling/forms/src/classes/widgets/Dialog.cpp" line="1469"/>
         <source>Read Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Leer texto</translation>
     </message>
     <message>
         <location filename="../../sources/ling/forms/src/classes/widgets/Dialog.cpp" line="1478"/>
         <source>Write Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Escribir datos</translation>
     </message>
     <message>
         <location filename="../../sources/ling/forms/src/classes/widgets/Dialog.cpp" line="1478"/>
         <location filename="../../sources/ling/forms/src/classes/widgets/Dialog.cpp" line="1484"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar</translation>
     </message>
     <message>
         <location filename="../../sources/ling/forms/src/classes/widgets/Dialog.cpp" line="1484"/>
         <source>Write Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Escribir texto</translation>
     </message>
     <message>
         <location filename="../../sources/ling/forms/src/classes/widgets/Dialog.cpp" line="1495"/>
         <source>Standard Dialogs</source>
-        <translation type="unfinished"></translation>
+        <translation>Diálogos estándar</translation>
     </message>
     <message>
         <location filename="../../sources/ling/forms/src/classes/widgets/Dialog.cpp" line="1556"/>
         <location filename="../../sources/ling/forms/src/classes/widgets/Dialog.cpp" line="1577"/>
         <source>Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Diálogo</translation>
     </message>
     <message>
         <location filename="../../sources/ling/forms/src/classes/widgets/Dialog.cpp" line="1561"/>
         <location filename="../../sources/ling/forms/src/classes/widgets/Dialog.cpp" line="1566"/>
         <source>Accept</source>
-        <translation type="unfinished"></translation>
+        <translation>Aceptar</translation>
     </message>
     <message>
         <location filename="../../sources/ling/forms/src/classes/widgets/Dialog.cpp" line="1561"/>
         <location filename="../../sources/ling/forms/src/classes/widgets/Dialog.cpp" line="1566"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>Aceptar</translation>
     </message>
     <message>
         <location filename="../../sources/ling/forms/src/classes/widgets/Dialog.cpp" line="1562"/>
         <location filename="../../sources/ling/forms/src/classes/widgets/Dialog.cpp" line="1567"/>
         <source>Reject</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechazar</translation>
     </message>
     <message>
         <location filename="../../sources/ling/forms/src/classes/widgets/Dialog.cpp" line="1562"/>
         <location filename="../../sources/ling/forms/src/classes/widgets/Dialog.cpp" line="1567"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="../../sources/ling/forms/src/classes/widgets/Dialog.cpp" line="1577"/>
         <source>Dialogs</source>
-        <translation type="unfinished"></translation>
+        <translation>Diálogos</translation>
     </message>
     <message>
         <location filename="../../sources/ling/forms/src/interfaces/I_FormItem.cpp" line="514"/>
         <location filename="../../sources/ling/forms/src/interfaces/I_FormItem.cpp" line="710"/>
         <source>Widgets</source>
-        <translation type="unfinished"></translation>
+        <translation>Widgets</translation>
     </message>
     <message>
         <location filename="../../sources/ling/forms/src/interfaces/I_FormItem.cpp" line="514"/>
         <source>Widget</source>
-        <translation type="unfinished"></translation>
+        <translation>Widget</translation>
     </message>
     <message>
         <location filename="../../sources/ling/forms/src/interfaces/I_FormItem.cpp" line="700"/>
         <source>Layouts</source>
-        <translation type="unfinished"></translation>
+        <translation>Diseños</translation>
     </message>
     <message>
         <location filename="../../sources/ling/forms/src/interfaces/I_FormItem.cpp" line="701"/>
         <source>Lines up widgets horizontally</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordena los widgets horizontalmente</translation>
     </message>
     <message>
         <location filename="../../sources/ling/forms/src/interfaces/I_FormItem.cpp" line="702"/>
         <source>Lines up widgets vertically</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordena los widgets verticalmente</translation>
     </message>
     <message>
         <location filename="../../sources/ling/forms/src/interfaces/I_FormItem.cpp" line="703"/>
         <source>Manages forms of widgets and labels</source>
-        <translation type="unfinished"></translation>
+        <translation>Administra formularios de widgets y etiquetas</translation>
     </message>
     <message>
         <location filename="../../sources/ling/forms/src/interfaces/I_FormItem.cpp" line="704"/>
         <source>Parent widget</source>
-        <translation type="unfinished"></translation>
+        <translation>Widget primario</translation>
     </message>
     <message>
         <location filename="../../sources/ling/forms/src/interfaces/I_FormItem.cpp" line="705"/>
         <source>Provides a stack of tabbed widgets</source>
-        <translation type="unfinished"></translation>
+        <translation>Proporciona un apilado de widgets en distintas pestañas</translation>
     </message>
     <message>
         <location filename="../../sources/ling/forms/src/interfaces/I_FormItem.cpp" line="706"/>
         <source>Horizontal stretch in a layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Estiramiento horizontal en un diseño</translation>
     </message>
     <message>
         <location filename="../../sources/ling/forms/src/interfaces/I_FormItem.cpp" line="707"/>
         <source>Vertical stretch in a layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Estiramiento vertical en un diseño</translation>
     </message>
     <message>
         <location filename="../../sources/ling/forms/src/interfaces/I_FormItem.cpp" line="711"/>
         <source>Command button</source>
-        <translation type="unfinished"></translation>
+        <translation>Botón de comando</translation>
     </message>
     <message>
         <location filename="../../sources/ling/forms/src/interfaces/I_FormItem.cpp" line="712"/>
         <source>Quick-access button</source>
-        <translation type="unfinished"></translation>
+        <translation>Botón de acceso rápido</translation>
     </message>
     <message>
         <location filename="../../sources/ling/forms/src/interfaces/I_FormItem.cpp" line="713"/>
         <source>Combined button and popup list</source>
-        <translation type="unfinished"></translation>
+        <translation>Botón combinado y lista emergente</translation>
     </message>
     <message>
         <location filename="../../sources/ling/forms/src/interfaces/I_FormItem.cpp" line="714"/>
         <source>Spin box widget</source>
-        <translation type="unfinished"></translation>
+        <translation>Widget de cuadro de número</translation>
     </message>
     <message>
         <location filename="../../sources/ling/forms/src/interfaces/I_FormItem.cpp" line="715"/>
         <source>Checkbox with a text label</source>
-        <translation type="unfinished"></translation>
+        <translation>Casilla de verificación con etiqueta de texto</translation>
     </message>
     <message>
         <location filename="../../sources/ling/forms/src/interfaces/I_FormItem.cpp" line="716"/>
         <source>Radio button with a text label</source>
-        <translation type="unfinished"></translation>
+        <translation>Botón de radio con una etiqueta de texto</translation>
     </message>
     <message>
         <location filename="../../sources/ling/forms/src/interfaces/I_FormItem.cpp" line="717"/>
         <source>Widget provides a text display</source>
-        <translation type="unfinished"></translation>
+        <translation>El widget proporciona un texto</translation>
     </message>
     <message>
         <location filename="../../sources/ling/forms/src/interfaces/I_FormItem.cpp" line="718"/>
         <source>Button bound to a URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Botón enlazado a una URL</translation>
     </message>
     <message>
         <location filename="../../sources/ling/forms/src/interfaces/I_FormItem.cpp" line="719"/>
         <source>One-line text editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Editor de texto de una línea</translation>
     </message>
     <message>
         <location filename="../../sources/ling/forms/src/interfaces/I_FormItem.cpp" line="720"/>
         <source>Multi-line text editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Editor de texto multilínea</translation>
     </message>
     <message>
         <location filename="../../sources/ling/forms/src/interfaces/I_FormItem.cpp" line="721"/>
         <source>List view onto a model</source>
-        <translation type="unfinished"></translation>
+        <translation>Vista de lista en un modelo</translation>
     </message>
     <message>
         <location filename="../../sources/ling/forms/src/interfaces/I_FormItem.cpp" line="722"/>
         <source>Widget provides an image display</source>
-        <translation type="unfinished"></translation>
+        <translation>El widget proporciona una imagen</translation>
     </message>
     <message>
         <location filename="../../sources/ling/forms/src/interfaces/I_FormItem.cpp" line="723"/>
         <source>Separator widget</source>
-        <translation type="unfinished"></translation>
+        <translation>Widget separador</translation>
     </message>
     <message>
         <location filename="../../sources/ling/model/src/classes/HasTimeStamps.cpp" line="90"/>
         <source>Today</source>
-        <translation type="unfinished"></translation>
+        <translation>Hoy</translation>
     </message>
     <message>
         <location filename="../../sources/ling/model/src/classes/HasTimeStamps.cpp" line="96"/>
         <source>Yesterday</source>
-        <translation type="unfinished"></translation>
+        <translation>Ayer</translation>
     </message>
     <message>
         <location filename="../../sources/ling/model/src/classes/ModelList.cpp" line="225"/>
         <source>Lists</source>
-        <translation type="unfinished"></translation>
+        <translation>Listas</translation>
     </message>
     <message>
         <location filename="../../sources/ling/model/src/classes/ModelList.cpp" line="225"/>
         <source>List</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista</translation>
     </message>
     <message>
         <location filename="../../sources/ling/model/src/classes/Script.cpp" line="199"/>
         <source>Scripts</source>
-        <translation type="unfinished"></translation>
+        <translation>Scripts</translation>
     </message>
     <message>
         <location filename="../../sources/ling/model/src/classes/Script.cpp" line="199"/>
         <source>Script</source>
-        <translation type="unfinished"></translation>
+        <translation>Script</translation>
     </message>
     <message>
         <location filename="../../sources/ling/model/src/interfaces/I_CanPaste.cpp" line="235"/>
         <source>[I_CanPaste::copyToClipboard] The source object is not copyable: {}.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">[I_CanPaste::copyToClipboard] El objeto de origen no se puede copiar {}.</translation>
     </message>
     <message>
         <location filename="../../sources/ling/model/src/interfaces/I_CanPaste.cpp" line="291"/>
         <source>[I_CanPaste::paste] Unable to paste the object.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">[I_CanPaste::paste] No se pudo pegar el objeto.</translation>
     </message>
     <message>
         <location filename="../../sources/ling/model/src/interfaces/I_CanPaste.cpp" line="296"/>
         <location filename="../../sources/ling/model/src/interfaces/I_CanPaste.cpp" line="324"/>
         <source>[I_CanPaste::paste] Unable to paste the object from an other root.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">[I_CanPaste::paste] No se pudo pegar el objeto desde otra raíz.</translation>
     </message>
     <message>
         <location filename="../../sources/ling/model/src/interfaces/I_CanPaste.cpp" line="314"/>
         <source>[I_CanPaste::paste] Unable to paste an object to itself.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">[I_CanPaste::paste] No se pudo pegar un objeto en sí mismo.</translation>
     </message>
     <message>
         <location filename="../../sources/ling/model/src/interfaces/I_CanPaste.cpp" line="319"/>
         <source>[I_CanPaste::paste] Unable to move the object.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">[I_CanPaste::paste] No se pudo mover el objeto.</translation>
     </message>
     <message>
         <location filename="../../sources/ling/model/src/interfaces/I_CanPaste.cpp" line="359"/>
         <source>[I_CanPaste::pasteLinks] Unable to paste link to the object.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">[I_CanPaste::pasteLinks] No se pudo pegar el enlace al objeto.</translation>
     </message>
     <message>
         <location filename="../../sources/ling/model/src/interfaces/I_CanPaste.cpp" line="365"/>
         <source>[I_CanPaste::pasteLinks] Unable to paste link to the object from an other root.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">[I_CanPaste::pasteLinks] No se pudo pegar el enlace al objeto desde otra raíz.</translation>
     </message>
     <message>
         <location filename="../../sources/ling/model/src/interfaces/I_ModelItem.cpp" line="280"/>
         <source>link to {} &apos;{}&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Enlace a {} &apos;{}&apos;</translation>
     </message>
     <message>
         <location filename="../../sources/ling/model/src/interfaces/I_ModelItem.cpp" line="282"/>
         <source>link to &apos;{}&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Enlace a &apos;{}&apos;</translation>
     </message>
     <message numerus="yes">
         <location filename="../../sources/ling/model/src/interfaces/I_ModelItem.cpp" line="305"/>
         <location filename="../../sources/ling/model/src/interfaces/I_ModelList.cpp" line="263"/>
         <source>%n item(s)</source>
         <translation type="unfinished">
-            <numerusform></numerusform>
+            <numerusform>%n artículo(s)</numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -783,149 +783,149 @@
         <location filename="../../sources/ling/ui/src/widgets/view/view_table.cpp" line="450"/>
         <location filename="../../sources/ling/ui/src/widgets/view/view_table.cpp" line="517"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre</translation>
     </message>
     <message>
         <location filename="../../sources/ling/model/src/interfaces/I_ModelList.cpp" line="165"/>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo</translation>
     </message>
     <message>
         <location filename="../../sources/ling/model/src/interfaces/I_ModelList.cpp" line="166"/>
         <location filename="../../sources/ling/model/src/interfaces/I_ModelList.cpp" line="183"/>
         <source>Date Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Fecha de modificación</translation>
     </message>
     <message>
         <location filename="../../sources/ling/model/src/interfaces/I_ModelList.cpp" line="167"/>
         <location filename="../../sources/ling/model/src/interfaces/I_ModelList.cpp" line="184"/>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamaño</translation>
     </message>
     <message>
         <location filename="../../sources/ling/model/src/interfaces/I_Task.cpp" line="229"/>
         <source>Tasks</source>
-        <translation type="unfinished"></translation>
+        <translation>Tareas</translation>
     </message>
     <message>
         <location filename="../../sources/ling/model/src/interfaces/I_Task.cpp" line="229"/>
         <source>Task</source>
-        <translation type="unfinished"></translation>
+        <translation>Tarea</translation>
     </message>
     <message>
         <location filename="../../sources/ling/project/src/classes/Folder.cpp" line="256"/>
         <location filename="../../sources/ling/project/src/classes/Folder.cpp" line="494"/>
         <source>Folders</source>
-        <translation type="unfinished"></translation>
+        <translation>Carpetas</translation>
     </message>
     <message>
         <location filename="../../sources/ling/project/src/classes/Folder.cpp" line="256"/>
         <location filename="../../sources/ling/project/src/classes/Folder.cpp" line="494"/>
         <source>Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Carpeta</translation>
     </message>
     <message>
         <location filename="../../sources/ling/project/src/classes/Folder.cpp" line="513"/>
         <location filename="../../sources/ling/ui/src/classes/common/Text.cpp" line="461"/>
         <source>_copy</source>
-        <translation type="unfinished"></translation>
+        <translation>_copia</translation>
     </message>
     <message>
         <location filename="../../sources/ling/project/src/interfaces/I_Factory.cpp" line="171"/>
         <source>Factories</source>
-        <translation type="unfinished"></translation>
+        <translation>Fábricas</translation>
     </message>
     <message>
         <location filename="../../sources/ling/project/src/interfaces/I_Factory.cpp" line="171"/>
         <source>Factory</source>
-        <translation type="unfinished"></translation>
+        <translation>Fábrica</translation>
     </message>
     <message>
         <location filename="../../sources/ling/ui/src/classes/base/TextStyle.cpp" line="150"/>
         <source>Text Styles</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilos de texto</translation>
     </message>
     <message>
         <location filename="../../sources/ling/ui/src/classes/base/TextStyle.cpp" line="150"/>
         <source>Text Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo de texto</translation>
     </message>
     <message>
         <location filename="../../sources/ling/ui/src/classes/common/Text.cpp" line="300"/>
         <location filename="../../sources/ling/ui/src/classes/common/Text.cpp" line="433"/>
         <source>Texts</source>
-        <translation type="unfinished"></translation>
+        <translation>Textos</translation>
     </message>
     <message>
         <location filename="../../sources/ling/ui/src/classes/common/Text.cpp" line="300"/>
         <location filename="../../sources/ling/ui/src/classes/common/Text.cpp" line="433"/>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Texto</translation>
     </message>
     <message>
         <location filename="../../sources/ling/ui/src/classes/common/Text.cpp" line="425"/>
         <source>empty</source>
-        <translation type="unfinished"></translation>
+        <translation>vacío</translation>
     </message>
     <message>
         <location filename="../../sources/ling/ui/src/classes/common/Text.cpp" line="427"/>
         <source>{} characters</source>
-        <translation type="unfinished"></translation>
+        <translation>{} caracteres</translation>
     </message>
     <message>
         <location filename="../../sources/ling/ui/src/functions/format/display_ui.cpp" line="66"/>
         <source>{} bytes</source>
-        <translation type="unfinished"></translation>
+        <translation>{} bytes</translation>
     </message>
     <message>
         <location filename="../../sources/ling/ui/src/functions/format/display_ui.cpp" line="67"/>
         <source>[external]</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">[external]</translation>
     </message>
     <message>
         <location filename="../../sources/ling/ui/src/functions/format/display_ui.cpp" line="68"/>
         <source>raw C/C++ value</source>
-        <translation type="unfinished"></translation>
+        <translation>valor C/C++ bruto</translation>
     </message>
     <message>
         <location filename="../../sources/ling/ui/src/functions/format/display_ui.cpp" line="69"/>
         <source>{} pairs</source>
-        <translation type="unfinished"></translation>
+        <translation>{} pares</translation>
     </message>
     <message>
         <location filename="../../sources/ling/ui/src/functions/format/display_ui.cpp" line="73"/>
         <source>tuple</source>
-        <translation type="unfinished"></translation>
+        <translation>tupla</translation>
     </message>
     <message>
         <location filename="../../sources/ling/ui/src/functions/format/display_ui.cpp" line="85"/>
         <source>anonymous function</source>
-        <translation type="unfinished"></translation>
+        <translation>función anónima</translation>
     </message>
     <message>
         <location filename="../../sources/ling/ui/src/functions/format/display_ui.cpp" line="103"/>
         <source>[error] {}</source>
-        <translation type="unfinished"></translation>
+        <translation>[error] {}</translation>
     </message>
     <message>
         <location filename="../../sources/ling/ui/src/interfaces/I_Tool.cpp" line="127"/>
         <source>Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Herramientas</translation>
     </message>
     <message>
         <location filename="../../sources/ling/ui/src/interfaces/I_Tool.cpp" line="127"/>
         <source>Tool</source>
-        <translation type="unfinished"></translation>
+        <translation>Herramienta</translation>
     </message>
     <message>
         <location filename="../../sources/ling/ui/src/internal/classes/CodeElement.cpp" line="86"/>
         <source>Completions</source>
-        <translation type="unfinished"></translation>
+        <translation>Finalizaciones</translation>
     </message>
     <message>
         <location filename="../../sources/ling/ui/src/internal/classes/CodeElement.cpp" line="86"/>
         <source>Completion</source>
-        <translation type="unfinished"></translation>
+        <translation>Finalización</translation>
     </message>
     <message>
         <location filename="../../sources/ling/ui/src/models/model_list_base.cpp" line="287"/>
@@ -944,63 +944,63 @@
         <location filename="../../sources/ling/ui/src/models/model_tree.cpp" line="432"/>
         <location filename="../../sources/ling/ui/src/models/model_tree.cpp" line="482"/>
         <source>Qt&apos;s views don&apos;t support nested updates, so please avoid it</source>
-        <translation type="unfinished"></translation>
+        <translation>Las vistas de Qt no soportan actualizaciones anidadas. Por favor evítelas</translation>
     </message>
     <message>
         <location filename="../../sources/ling/ui/src/models/model_list_base.cpp" line="337"/>
         <location filename="../../sources/ling/ui/src/models/model_list_base.cpp" line="567"/>
         <location filename="../../sources/ling/ui/src/models/model_tree.cpp" line="444"/>
         <source>Index out of range for sequence_inserted message</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Índice fuera de rango para mensaje sequence_inserted</translation>
     </message>
     <message>
         <location filename="../../sources/ling/ui/src/models/model_list_base.cpp" line="399"/>
         <location filename="../../sources/ling/ui/src/models/model_list_base.cpp" line="604"/>
         <location filename="../../sources/ling/ui/src/models/model_tree.cpp" line="496"/>
         <source>Index out of range for sequence_removed message</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Índice fuera de rango para mensaje sequence_removed</translation>
     </message>
     <message>
         <location filename="../../sources/ling/ui/src/models/model_list_base.cpp" line="418"/>
         <location filename="../../sources/ling/ui/src/models/model_list_base.cpp" line="621"/>
         <location filename="../../sources/ling/ui/src/models/model_tree.cpp" line="531"/>
         <source>Index out of range for sequence_updated message</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Índice fuera de rango para mensaje sequence_updated</translation>
     </message>
     <message>
         <location filename="../../sources/ling/ui/src/models/model_list_base.cpp" line="484"/>
         <source>Received sequence_cleared notification for empty list model</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Notificación sequence_cleared recibida por un modelo de lista vacío</translation>
     </message>
     <message>
         <location filename="../../sources/ling/ui/src/models/model_tree.cpp" line="556"/>
         <source>Qt&apos;s views don&apos;t support nested updates, so please avoid it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Las vistas de Qt no soportan actualizaciones anidadas. Por favor evítelas.</translation>
     </message>
     <message>
         <location filename="../../sources/ling/ui/src/models/model_tree.cpp" line="961"/>
         <source>[tree_model::parent] Invalid child index</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">[tree_model::parent] Índice secundario inválido</translation>
     </message>
     <message>
         <location filename="../../sources/ling/ui/src/models/model_tree.cpp" line="971"/>
         <source>[tree_model::rowCount] Invalid parent index</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">[tree_model::rowCount] Índice primario inválido</translation>
     </message>
     <message>
         <location filename="../../sources/ling/ui/src/models/model_tree.cpp" line="1067"/>
         <source>[model_tree::allocate_node] Unable to register new node in the model.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">[model_tree::allocate_node] No se pudo registrar el nuevo nodo en el modelo.</translation>
     </message>
     <message>
         <location filename="../../sources/ling/ui/src/models/model_tree.cpp" line="1100"/>
         <source>[tree_model::related_node] Invalid index.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">[tree_model::related_node] Índice inválido.</translation>
     </message>
     <message>
         <location filename="../../sources/ling/ui/src/models/model_tree.cpp" line="1114"/>
         <source>[tree_model::related_value] Invalid index.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">[tree_model::related_value] Índice inválido.</translation>
     </message>
 </context>
 <context>
@@ -1008,7 +1008,8 @@
     <message>
         <location filename="../../sources/VStudio/LT/ThirdParty/ksh/definition_p.h" line="98"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Language: None = Idioma: Ninguno</translatorcomment>
+        <translation>Ninguno</translation>
     </message>
 </context>
 <context>
